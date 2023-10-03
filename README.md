@@ -1,4 +1,4 @@
-# PDF QnA using OpenAI
+# PDF QnA using Open Source LLMs
 
 **Medium Article** : https://medium.com/@baptisteloquette.entr/langchain-arxiv-tutor-data-loading-c62f55af492d
 
